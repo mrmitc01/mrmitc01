@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm interested in learning Swift.
+I am working on Swift tutorials and projects.
+My favorite hobby is ping pong.
