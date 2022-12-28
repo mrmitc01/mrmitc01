@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm interested in learning Swift.
-I am working on Swift tutorials and projects.
+I'm interested in learning even more C, C++, Swift, JavaScript, and Python.
+I have recently worked on Swift, JavaScript, and Python tutorials and projects.
 My favorite hobby is ping pong.
