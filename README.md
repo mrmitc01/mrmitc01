@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm interested in learning more about C, C++, C#, Swift, JavaScript, Python, and more.
+I'm interested in further learning about C, C++, C#, Swift, JavaScript, Python, and more.
 I have recently worked on Swift, JavaScript, and Python tutorials and projects.
 My favorite hobby is ping pong.
